@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === '+spam') {
-    	message.reply('spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam sapm spam spam spam spam');
+    	message.reply('spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam spam sapm spam spam spam spam spam spam spam spam spam spam spam spam spam spam sapm spam spam spam spam spam spam spam spam spam spam spam spam spam spam sapm spam spam spam spam ');
   	}
 });
 
